@@ -15,7 +15,8 @@
 - [Parte 2](https://web.dio.me/lab/criando-um-sistema-de-reconhecimento-de-voz-para-aprender-cores-em-ingles/learning/e7b52547-3fef-43a2-aea4-d76d67c725e6)   <br>  
 - [Parte 3](https://web.dio.me/lab/criando-um-sistema-de-reconhecimento-de-voz-para-aprender-cores-em-ingles/learning/2c16d362-e016-4e7b-813d-52a142b135fa)   <br>  
 - [Parte 4](https://web.dio.me/lab/criando-um-sistema-de-reconhecimento-de-voz-para-aprender-cores-em-ingles/learning/e7f5a274-535e-4d13-8d84-55adb9599c41)   <br>  
-- [Parte 5](https://web.dio.me/lab/criando-um-sistema-de-reconhecimento-de-voz-para-aprender-cores-em-ingles/learning/29984b1a-bf72-46aa-92af-a8c74387a60b)   <br>  [Parte 6](https://web.dio.me/lab/criando-um-sistema-de-reconhecimento-de-voz-para-aprender-cores-em-ingles/learning/907a77a6-d61a-45d8-8f76-cca24dd98b40)   <br>  
+- [Parte 5](https://web.dio.me/lab/criando-um-sistema-de-reconhecimento-de-voz-para-aprender-cores-em-ingles/learning/29984b1a-bf72-46aa-92af-a8c74387a60b)   <br>  
+- [Parte 6](https://web.dio.me/lab/criando-um-sistema-de-reconhecimento-de-voz-para-aprender-cores-em-ingles/learning/907a77a6-d61a-45d8-8f76-cca24dd98b40)   <br>  
 
 
 [*
